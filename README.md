@@ -2,7 +2,6 @@
 
 ### Java Developer | Flutter Developer | Java • Flutter • .NET | Mobile & Web Development Enthusiast Building Solutions with Java, Flutter & Modern Web Technologies Software Developer | .NET Framework
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=10Niranjan" alt="10Niranjan" /></a> </p>
 
 - 🌱 I'm currently learning **Spring Boot**
 
