@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pvt.niranjan10@gmail.com**
 
-- 📄 Know about my experiences **[[https://drive.google.com/drive/home](https://drive.google.com/drive/home)](https://drive.google.com/file/d/1G4IfJMabq0bfUAGO1LTj8nfEJv0SBiDO/view?usp=drive_link)**
+- 📄 Know about my experiences **[[[https://drive.google.com/drive/home](https://drive.google.com/drive/home)](https://drive.google.com/file/d/1G4IfJMabq0bfUAGO1LTj8nfEJv0SBiDO/view?usp=drive_link)](https://drive.google.com/file/d/1G4IfJMabq0bfUAGO1LTj8nfEJv0SBiDO/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
