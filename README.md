@@ -4,9 +4,10 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Java+Developer;Flutter+Developer;Mobile+%26+Web+Development+Enthusiast;Building+Modern+Apps+with+Java+%26+Flutter;Always+Learning+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1&pause=2000&color=1E90FF&center=true&vCenter=true&width=700&lines=Java+Developer;Flutter+Developer;Mobile+%26+Web+Development+Enthusiast;Building+Modern+Apps+with+Java+%26+Flutter;Always+Learning+New+Technologies;Software+Developer+%7C+.NET+Framework" alt="Full Lines Animation" />
   </a>
 </h3>
+
 
 ### Java Developer | Flutter Developer | Java • Flutter • .NET | Mobile & Web Development Enthusiast | Building Solutions with Java, Flutter & Modern Web Technologies | Software Developer | .NET Framework
 
