@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niranjan Nitin Patil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Java+Developer;Flutter+Developer;.NET+Framework+Expert;Mobile+%26+Web+Development;Building+Modern+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=1E90FF&center=true&vCenter=true&width=1000&lines=Java+Developer+%7C+Flutter+Developer+%7C+.NET+Framework;Mobile+%26+Web+Development+Enthusiast;Building+Solutions+with+Java%2C+Flutter+%26+Modern+Web+Technologies;Software+Developer+%7C+Full+Stack+Engineer;Passionate+about+Creating+Innovative+Applications" alt="Typing SVG" />
 </p>
 
 
