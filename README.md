@@ -7,7 +7,7 @@
 
 ### Java Developer | Flutter Developer | Java • Flutter • .NET | Mobile & Web Development Enthusiast | Building Solutions with Java, Flutter & Modern Web Technologies | Software Developer | .NET Framework
 
-- 🌱 I'm currently learning **Spring Boot**
+- 🌱 I'm currently learning **Sprin\ Boot**
 
 - 📫 How to reach me **pvt.niranjan10@gmail.com**
 
