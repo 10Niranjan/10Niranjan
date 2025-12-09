@@ -9,9 +9,9 @@
 
 - 🌱 I'm currently learning **Spring Boot**
 
-- 📫 ow to reach me **pvt.niranjan10@gmail.com**
+- 📫 How to reach me **pvt.niranjan10@gmail.com**
 
-- 📄 know about my experiences **[https://drive.google.com/file/d/1G4IfJMabq0bfUAGO1LTj8nfEJv0SBiDO/view?usp=drive_link](https://drive.google.com/file/d/1G4IfJMabq0bfUAGO1LTj8nfEJv0SBiDO/view?usp=drive_link)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1G4IfJMabq0bfUAGO1LTj8nfEJv0SBiDO/view?usp=drive_link](https://drive.google.com/file/d/1G4IfJMabq0bfUAGO1LTj8nfEJv0SBiDO/view?usp=drive_link)**
 
 
 
