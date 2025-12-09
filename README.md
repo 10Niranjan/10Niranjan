@@ -13,9 +13,7 @@
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1G4IfJMabq0bfUAGO1LTj8nfEJv0SBiDO/view?usp=drive_link](https://drive.google.com/file/d/1G4IfJMabq0bfUAGO1LTj8nfEJv0SBiDO/view?usp=drive_link)**
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
