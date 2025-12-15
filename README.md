@@ -5,7 +5,7 @@
 </p>
 
 
-### Jaa Developer | Flutter Developer | Java • Flutter • .NET | Mobile & Web Development Enthusiast | Building Solutions with Java, Flutter & Modern Web Technologies | Software Developer | .NET Framework
+### Java Developer | Flutter Developer | Java • Flutter • .NET | Mobile & Web Development Enthusiast | Building Solutions with Java, Flutter & Modern Web Technologies | Software Developer | .NET Framework
 
 - 🌱 I'm currently learning **Spring Boot**
 
