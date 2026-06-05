@@ -7,11 +7,9 @@
 
 ### Java Developer | Flutter Developer | Java • Flutter • .NET | Mobile & Web Development Enthusiast | Building Solutions with Java, Flutter & Modern Web Technologies | Software Developer | .NET Framework
 
-- 🌱 I'm currently learning **Spring Boot**
+- ✨ Explore my aesthetic portfolio and latest projects: **[10Niranjan's Portfolio](https://github.com/10Niranjan/portfolio)**
 
 - 📫 How to reach me **pvt.niranjan10@gmail.com**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1G4IfJMabq0bfUAGO1LTj8nfEJv0SBiDO/view?usp=drive_link](https://drive.google.com/file/d/1G4IfJMabq0bfUAGO1LTj8nfEJv0SBiDO/view?usp=drive_link)**
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -43,5 +41,3 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
 </p>
-
-
