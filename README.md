@@ -5,7 +5,7 @@
 </p>
 
 
-### Java Develope | Flutter Developer | Mobile & Web Development Enthusiast | Building Solutions with Java, Flutter & Modern Web Technologies | Software Developer
+### Java Developer | Flutter Developer | Mobile & Web Development Enthusiast | Building Solutions with Java, Flutter & Modern Web Technologies | Software Developer
 
 - ✨ Explore my portfolio and latest projects: **[10Niranjan's Portfolio](https://10niranjan.github.io/PortFolio/#)**
 
