@@ -9,7 +9,7 @@
 
 - ✨ Explore my portfolio and latest projects: **[10Niranjan's Portfolio](https://10niranjan.github.io/PortFolio/#)**
 
-- 📫 How to reach me **pvt.niranjan10@gmail.com** .......
+- 📫 How to reach me **pvt.niranjan10@gmail.com** ......
   
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
